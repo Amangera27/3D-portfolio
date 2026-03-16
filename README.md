@@ -1,7 +1,7 @@
-# My Portfolio Wesbite - Overview 🚀
+# Portfolio Website - Aman Gera 🚀
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+This repository contains the source code for my 3D portfolio website.
+Feel free to explore and use it as inspiration!
 
 ## Instructions 🛠️
 
