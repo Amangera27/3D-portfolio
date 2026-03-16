@@ -1,0 +1,21 @@
+﻿Uploading LFS objects: 100% (1/1), 2.3 MB | 0 B/s, done.
+git : remote: error: GH008: Your push referenced 
+at least 1 unknown Git LFS object:        
+At line:1 char:1
++ git push -u origin main 2>&1 | Out-File 
+-Encoding utf8 push_attempt_2 ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remot 
+   e: error: ...object:        :String) [], Remot  
+  eException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+remote:     c287a4d10bbbbc4c779f7b0a68b666b530ef975
+4142843aa048b4d5976c0d052        
+remote: Try to push them with 'git lfs push 
+--all'.        
+To https://github.com/Amangera27/3D-portfolio.git
+ ! [remote rejected] main -> main (pre-receive 
+hook declined)
+error: failed to push some refs to 
+'https://github.com/Amangera27/3D-portfolio.git'
